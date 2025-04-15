@@ -5,7 +5,7 @@ Welcome to my Excel Data Analysis repository! This space highlights a collection
 
 ## 🔍 Project List
 
-1. [Cookie Performance Dashboard](https://github.com/aparnabirle/excel-data-visuals/tree/main/Cookie%20Sales%20Dashboard)
+1. [Cookie Performance Dashboard](https://github.com/aparnabirle/excel-data-visuals/tree/main/Cookie%20Performance%20Dashboard)
 2. [Personal Finance Dashboard](https://github.com/aparnabirle/excel-data-visuals/tree/main/Personal%20Finance%20Dashboard)
 
    
